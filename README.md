@@ -4,7 +4,7 @@
 
 ## Description
 
-This app will serve as an API for a social network using a NoSQL database, in order to handle large amounts of unstructured data
+This app implements a social network API backed by a NoSQL database.
 
 ## Acceptance Criteria
 
@@ -22,7 +22,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Usage
 
-The following animations show examples of the application's API routes being tested in Insomnia.
+The following video and link show app API routes being tested in Insomnia.
+![demo](./docs/socialNet.gif)
+[link](https://drive.google.com/file/d/1RHWgxBctB2zWe23h1ReLmFpNxNod5ztQ/view?usp=sharing)
 
 The following animation shows GET routes to return all users and all thoughts being tested in Insomnia:
 

@@ -1,5 +1,4 @@
 const { Schema, model } = require('mongoose');
-//const validator = require('validator');
 
 const userSchema = new Schema(
   {
@@ -43,7 +42,7 @@ const userSchema = new Schema(
     toJSON: {
       virtuals: true,
     },
-    id: false,
+    id: true,
   }
 );
 
