@@ -22,9 +22,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Usage
 
-The following video and link show app API routes being tested in Insomnia.
+The following video and [link](https://drive.google.com/file/d/1RHWgxBctB2zWe23h1ReLmFpNxNod5ztQ/view?usp=sharing) show app API routes being tested in Insomnia.
 ![demo](./docs/socialNet.gif)
-[link](https://drive.google.com/file/d/1RHWgxBctB2zWe23h1ReLmFpNxNod5ztQ/view?usp=sharing)
+
 
 The following animation shows GET routes to return all users and all thoughts being tested in Insomnia:
 
